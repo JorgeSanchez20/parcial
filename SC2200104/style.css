@@ -1,0 +1,310 @@
+.DISEO-CLAVE-c {
+  background-color: #e71818;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.DISEO-CLAVE-c .div {
+  background-color: #ff2121;
+  height: 5007px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.DISEO-CLAVE-c .overlap {
+  height: 2836px;
+  left: -2px;
+  position: absolute;
+  top: 151px;
+  width: 1444px;
+}
+
+.DISEO-CLAVE-c .frame {
+  background-color: #e8e8e8;
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 1000px;
+  width: 1444px;
+}
+
+.DISEO-CLAVE-c .text-wrapper {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(251.81, 3.15, 3.15) 0%, rgb(137.06, 8.57, 31.7) 94.5%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sigmar One-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 599px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-emphasis-color: transparent;
+  top: 167px;
+}
+.DISEO-CLAVE-c .group-3 {
+  height: 60px;
+  left: 881px;
+  position: absolute;
+  top: 53px;
+  width: 246px;
+}
+
+.DISEO-CLAVE-c .group-4 {
+  height: 60px;
+  left: 1180px;
+  position: absolute;
+  top: 53px;
+  width: 153px;
+}
+.DISEO-CLAVE-c .tren {
+  height: 102px;
+  left: 515px;
+  object-fit: cover;
+  position: absolute;
+  top: 818px;
+  width: 927px;
+}
+
+.DISEO-CLAVE-c .frame-2 {
+  background-color: #ffffff;
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 1916px;
+  width: 1442px;
+}
+
+.DISEO-CLAVE-c .text-wrapper-2 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(240.12, 15.01, 15.01) 0%, rgb(150.87, 10.69, 19.1) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sigmar One-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 472px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-emphasis-color: transparent;
+  top: 167px;
+}
+
+.DISEO-CLAVE-c .fondo-ciudad {
+  height: 317px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 1440px;
+}
+
+.DISEO-CLAVE-c .element {
+  height: 1001px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.DISEO-CLAVE-c .frame-3 {
+  background-color: #e8e8e8;
+  height: 920px;
+  left: -2px;
+  position: absolute;
+  top: 2987px;
+  width: 1442px;
+}
+
+.DISEO-CLAVE-c .text-wrapper-3 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(167.88, 3.5, 3.5) 0%, rgb(65.87, 3.02, 3.02) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sigmar One-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 505px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-emphasis-color: transparent;
+  top: 167px;
+}
+
+.DISEO-CLAVE-c .img {
+  height: 102px;
+  left: 513px;
+  object-fit: cover;
+  position: absolute;
+  top: 818px;
+  width: 929px;
+}
+
+.DISEO-CLAVE-c .overlap-group {
+  height: 920px;
+  left: -2px;
+  position: absolute;
+  top: 3907px;
+  width: 1442px;
+}
+
+.DISEO-CLAVE-c .div-wrapper {
+  background-color: #ffffff;
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.DISEO-CLAVE-c .text-wrapper-4 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(230.56, 10.57, 10.57) 0%, rgb(89.25, 5.21, 5.21) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sigmar One-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-emphasis-color: transparent;
+  top: 167px;
+}
+
+.DISEO-CLAVE-c .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4889px;
+}
+
+.DISEO-CLAVE-c .facebook-square {
+  height: 49px;
+  left: 1194px;
+  position: absolute;
+  top: 4893px;
+  width: 49px;
+}
+
+.DISEO-CLAVE-c .instagram {
+  height: 49px;
+  left: 1095px;
+  position: absolute;
+  top: 4896px;
+  width: 59px;
+}
+
+.DISEO-CLAVE-c .linkedin {
+  height: 55px;
+  left: 916px;
+  position: absolute;
+  top: 4890px;
+  width: 55px;
+}
+
+.DISEO-CLAVE-c .envelope-open {
+  height: 44px;
+  left: 1011px;
+  position: absolute;
+  top: 4895px;
+  width: 44px;
+}
+
+.DISEO-CLAVE-c .frame-4 {
+  background: linear-gradient(
+    180deg,
+    rgb(248.63, 0, 14.92) 0%,
+    rgb(228.44, 70.43, 98.88) 71.5%,
+    rgb(53.12, 11.29, 13.8) 100%
+  );
+  height: 167px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+}
+
+.DISEO-CLAVE-c .group {
+  height: 60px;
+  left: 304px;
+  position: absolute;
+  top: 53px;
+  width: 177px;
+}
+
+.DISEO-CLAVE-c .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.DISEO-CLAVE-c .home {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 52px;
+}
+
+.DISEO-CLAVE-c .group-2 {
+  height: 60px;
+  left: 534px;
+  position: absolute;
+  top: 53px;
+  width: 294px;
+}
+
+.DISEO-CLAVE-c .text-wrapper-7 {
+  color: #fdfdfd;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+
+
+.DISEO-CLAVE-c .line {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 162px;
+  width: 1440px;
+}
+
+.DISEO-CLAVE-c .logo-removebg {
+  height: 127px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 237px;
+}
